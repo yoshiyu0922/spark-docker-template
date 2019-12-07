@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk
-MAINTAINER yoshiyu
+MAINTAINER yoshiyu0922
 
 ### Versions
 ENV HADOOP_MAJOR_VERSION 2.7
