@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+    spark-sample:
+        build: .
+        ports:
+            - "10000:10000"
+        container_name: spark-sample
